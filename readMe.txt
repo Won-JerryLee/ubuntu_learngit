@@ -2,4 +2,8 @@
 \n third change !
 four change git status
 4
-111131
+<<<<<<< HEAD
+111121
+=======
+111121
+>>>>>>> dev
